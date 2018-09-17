@@ -4,11 +4,13 @@ Code for APWE method, introduced in paper "Leveraging Pattern Associations for W
 
 Installation: type make
 
-Example: to run this type
+To run this code, type:
 
-./word2vec -train corpus.txt -output result.txt -cbow 1 -size 300  -negative 25 -hs 1 -sample 1e-4 -threads 20 -binary 0 -pattern pattern_test1.txt -pro 20
+    ./word2vec -train corpus.txt -output result.txt -cbow 1 -size 300  -negative 25 -hs 1 -sample 1e-4 -threads 20 -binary 0 -pattern pattern_test1.txt -pro 20
+
 
 Here,
+
 -train is the training corpus
 
 -output is the output word embedding file
