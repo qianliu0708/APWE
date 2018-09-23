@@ -1,4 +1,4 @@
-# APWE
+# APWE(Associated Pattern-enhanced Word Embedding)
 Code for APWE method, introduced in paper "Leveraging Pattern Associations for Word Embedding Models" (DASFAA'17).
 -------------------------------------------------------------------------------------------------------------------
 
